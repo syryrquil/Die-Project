@@ -1,0 +1,38 @@
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.exe.config
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.exe
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.pdb
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.xml
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbprojAssemblyReference.cache
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice_Project.Form1.resources
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice_Project.Resources.resources
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.GenerateResource.cache
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.CoreCompileInputs.cache
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.exe
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.xml
+C:\Users\AidalaRV\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.pdb
+E:\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.exe.config
+E:\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.exe
+E:\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.pdb
+E:\Desktop\Dice Solution\Dice Project\bin\Debug\Dice Project.xml
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbprojAssemblyReference.cache
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice_Project.Form1.resources
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice_Project.Resources.resources
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.GenerateResource.cache
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.CoreCompileInputs.cache
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.exe
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.xml
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice Project.pdb
+E:\Desktop\Dice Solution\Dice Project\obj\Debug\Dice_Project.FrmExtraPlayers.resources
+E:\Desktop\Programs\Dice Solution\Dice Project\bin\Debug\Dice Project.exe.config
+E:\Desktop\Programs\Dice Solution\Dice Project\bin\Debug\Dice Project.exe
+E:\Desktop\Programs\Dice Solution\Dice Project\bin\Debug\Dice Project.pdb
+E:\Desktop\Programs\Dice Solution\Dice Project\bin\Debug\Dice Project.xml
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.vbprojAssemblyReference.cache
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice_Project.Form1.resources
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice_Project.FrmExtraPlayers.resources
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice_Project.Resources.resources
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.GenerateResource.cache
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.vbproj.CoreCompileInputs.cache
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.exe
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.xml
+E:\Desktop\Programs\Dice Solution\Dice Project\obj\Debug\Dice Project.pdb
