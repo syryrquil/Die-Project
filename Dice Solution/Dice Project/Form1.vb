@@ -103,6 +103,7 @@
         'resets roll count so that it isn't 0
         rollCount = nudRollCount.Value
     End Sub
+    'runs a multiroll for each player
     Function multiRollVal1() As String
         While rollCount > 0
             If commaCheck = "don't reset" Then
@@ -122,6 +123,7 @@
         rollCount = nudRollCount.Value
         Return playerOneText
     End Function
+    'runs a multiroll for each player
     Function multiRollVal2() As String
         While rollCount > 0
             If commaCheck = "don't reset" Then
@@ -221,7 +223,7 @@
     Private Sub btnMultiRoll_Click(sender As Object, e As EventArgs) Handles btnMultiRoll.Click
         MultiRoll()
     End Sub
-
+    'sets playercount to value on player count picker
     Private Sub nudPlayerCount_ValueChanged(sender As Object, e As EventArgs) Handles nudPlayerCount.ValueChanged
         playerCount = nudPlayerCount.Value
     End Sub

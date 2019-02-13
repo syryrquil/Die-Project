@@ -6,4 +6,9 @@
         'presses extra players roll button on the original form
         My.Forms.Form1.btnExtraPlayers.PerformClick()
     End Sub
+
+    Private Sub FrmExtraPlayers_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        Form1.ResetFrm()
+        e.Cancel = True
+    End Sub
 End Class
